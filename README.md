@@ -47,7 +47,7 @@
 ```
 
 ```mermaid
-		Gantt
+		gantt
 	    title 하루 일과
 	    dateFormat  HH-MM
 	    axisFormat %H:%M
